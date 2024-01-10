@@ -1,5 +1,4 @@
 import CheckoutItem from '../../components/checkout-Item/checkout-item.component';
-
 import { CartContext } from '../../context/cart.contex';
 
 import './checkout.styles.scss'
