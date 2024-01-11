@@ -2,13 +2,13 @@ import { Fragment,useContext } from "react";
 
 import {NavigationContainer,NavLink,NavLinks,LogoContainer} from './navigation-styles'
 
-import { ReactComponent as CrwnLogo  } from '/Users/pappy/pappy_clothing/src/assets/crown.svg';
+import { ReactComponent as CrwnLogo  } from'./shirt logo/crown.svg'
 
 import CartIcon from "../../../components/cart-icon/cart-icon.component";
 
 import CartDropdown from "../../../components/cart-dropdown/cart-dropdown.component";
 
-import { Outlet,Link } from "react-router-dom"
+import { Outlet } from "react-router-dom"
 
 import { UserContext } from "../../../context/user.context";
 
