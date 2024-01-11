@@ -1,4 +1,4 @@
-import '/Users/pappy/pappy_clothing/src/components/Form-Input/styles/Form-Input.styles.scss'
+import './styles/Form-Input.styles.scss'
 
 const FormInput=({label,...otherprops})=>{
     return(<div className="group"> 
