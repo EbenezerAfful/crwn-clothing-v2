@@ -10,6 +10,7 @@ import { CartProvider } from './context/cart.contex';
 
 import reportWebVitals from './reportWebVitals';
 
+
 import './index.scss';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
